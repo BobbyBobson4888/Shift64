@@ -1,0 +1,3 @@
+#! todo.txt
+(B) Per-bit control (rather than entire bytes at once) @software
+(N) Make a proper schematic @documentation
