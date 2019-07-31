@@ -15,3 +15,19 @@ Basically:
 
 Slightly Non-ideal Schematic:
 ![](/schematic.jpg)
+
+Text at the bottom of that page (All of this is handled by the library automatically):
+```
+To set the address:
+- take al_pin low
+- shift out
+- take al_pin high
+
+To set the data:
+- take dl_pin high
+- shift out
+- take dl_pin low
+
+Addresses are active low.
+Bitmask must be inverted.
+```
