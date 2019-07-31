@@ -13,7 +13,7 @@ Basically:
   - Connect output enable (pin 13) to ground.
   - Connect each latch clock (pin 12) to one of the output pins on the first shift register.
 
-Slightly Non-ideal Schematic:
+Slightly Non-ideal Schematic (only shows the first 2 of the 8 secondary registers):
 ![](/schematic.jpg)
 
 Text at the bottom of that page (All of this is handled by the library automatically):
