@@ -14,4 +14,4 @@ Basically:
   - Connect each latch clock (pin 12) to one of the output pins on the first shift register.
 
 Slightly Non-ideal Schematic:
-![](/images/2019/07/schematic.jpg)
+![](/schematic.jpg)
